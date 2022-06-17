@@ -1,0 +1,54 @@
+body{
+    background: rgb(240, 240, 240);
+    color: rgb(20, 20, 20);
+    font-family: 'Open Sans', sans-serif;;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: red;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+text-decoration: none;
+color: green;
+}
+
+#fast{
+    height: 50px;
+    width: 50px;
+}
+
+#smart{
+    height: 50px;
+    width: 50px;
+}
+
+#awesome{
+    height: 50px;
+    width: 50px;
+}
+
+#painful{
+    height: 50px;
+    width: 50px;
+}
+
+#banner{
+    background-image: url("https://picsum.photos/1000/600?random");
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+}
